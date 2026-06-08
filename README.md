@@ -63,14 +63,10 @@ department-automation-coal-project/
 │   └── simulation-link.txt
 │
 ├── documentation/
-│   ├── final-report.pdf
-│   ├── flowcharts/
-│   ├── dfd/
-│   └── timetable/
-│
-└── media/
-    ├── demo-video-link.txt
-    └── prototype-images/
+    ├── final-report.pdf
+    ├── flowcharts/
+    ├── dfd/
+    └── timetable/
 ```
 
 ## Software and Platforms
