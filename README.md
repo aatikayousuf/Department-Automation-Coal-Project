@@ -64,9 +64,7 @@ department-automation-coal-project/
 │
 ├── documentation/
     ├── final-report.pdf
-    ├── flowcharts/
-    ├── dfd/
-    └── timetable/
+    └── timetable.pdf
 ```
 
 ## Software and Platforms
